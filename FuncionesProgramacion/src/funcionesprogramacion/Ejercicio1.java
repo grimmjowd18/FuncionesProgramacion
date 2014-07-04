@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author
+ * @author Alvarez Quimis - Saltos Mera
  */
 public class Ejercicio1 {
     public static void main(String[] args) 
