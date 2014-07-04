@@ -8,7 +8,7 @@ package funcionesprogramacion;
 
 /**
  *
- * @author Usuario
+ * @author
  */
 public class Ejercicio1 {
     
